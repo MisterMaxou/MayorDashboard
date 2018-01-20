@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 def contact(request):
-    return render(request, 'contact/contact.html')
+    return render(request, 'contact.html')
 
 
 def coming_soon(request):
