@@ -29,6 +29,7 @@ DEBUG = local_settings.DEBUG
 ALLOWED_HOSTS = [
     'mistermax.pythonanywhere.com',
     'localhost',
+    'www.datacommune.fr'
 ]
 
 
