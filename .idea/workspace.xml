@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18daf041-7533-41a0-a3e6-d939734f9968" name="Default" comment="" />
+    <list default="true" id="18daf041-7533-41a0-a3e6-d939734f9968" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/MayorDashboard/settings.py" afterPath="$PROJECT_DIR$/MayorDashboard/settings.py" />
+      <change beforePath="$PROJECT_DIR$/MayorDashboard/urls.py" afterPath="$PROJECT_DIR$/MayorDashboard/urls.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MayorDashboard/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -31,12 +35,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MayorDashboard/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="616">
+              <caret line="28" column="83" lean-forward="false" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+              <folding>
+                <element signature="e#638#679#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,10 +96,10 @@
         <option value="$PROJECT_DIR$/MayorDashboard/misc/templates/coming_soon/coming_soon.html" />
         <option value="$PROJECT_DIR$/MayorDashboard/misc/urls.py" />
         <option value="$PROJECT_DIR$/MayorDashboard/misc/views.py" />
-        <option value="$PROJECT_DIR$/MayorDashboard/urls.py" />
         <option value="$PROJECT_DIR$/misc/templates/coming_soon.html" />
         <option value="$PROJECT_DIR$/MayorDashboard/local_debug.py" />
         <option value="$PROJECT_DIR$/MayorDashboard/settings.py" />
+        <option value="$PROJECT_DIR$/MayorDashboard/urls.py" />
       </list>
     </option>
   </component>
@@ -310,7 +316,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -416,14 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MayorDashboard/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SECRA/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -435,8 +435,18 @@
     <entry file="file://$PROJECT_DIR$/MayorDashboard/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayorDashboard/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="83" lean-forward="false" selection-start-line="28" selection-start-column="83" selection-end-line="28" selection-end-column="83" />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
